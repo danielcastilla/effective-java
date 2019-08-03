@@ -8,6 +8,7 @@ Ventajas:
 
 - No es necesario crear un nuevo objeto cada vez que es invocado 
 
-- Otra importante diferencia a los constructores es que puede devolver un subtipo del tipo de retorno
+- Otra importante diferencia respecto de los constructores es que puede devolver un subtipo del tipo de retorno
 
 - Un mismo método puede devolver distintos valores en función de los parámetros de entrada
+
